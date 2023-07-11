@@ -1,0 +1,14 @@
+nets  
+__init__.py   加入vgg
+vgg
+lighting  
+trainer.py  输出我需要的模型
+datasets 
+utils.py  np.random.shuffle(idx) 不让打乱数据。
+cv_datasets datasetbase.py  img = Image.fromarray(img) 不需要转换。
+augmentation xrd_augementation.py  
+
+
+
+
+
