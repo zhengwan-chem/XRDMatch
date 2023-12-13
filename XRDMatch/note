@@ -1,0 +1,2 @@
+copy lbs.csv and ulbs.csv to the file
+python trian.py 
